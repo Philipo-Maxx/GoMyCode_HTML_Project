@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body .resume{
+    text-align: center;
+}
+
+#back_home{
+    text-decoration: none;
+}
+
+body .footer{
+    text-align: center;
+}
+
+
+.resume{
+    color: red;
+}
